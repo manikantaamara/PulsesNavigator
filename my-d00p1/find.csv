@@ -1,0 +1,680 @@
+state,district,mandal,latitude,longitude,soil type,rabi,kharif,zaid
+Andhra Pradesh,Alluri Sitharama Raju,Ananthagiri,18.1968728,82.9978626,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Araku Valley,18.3273486,82.8775218,Laterite,Chana Dal,Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,Alluri Sitharama Raju,Chintapalle,17.8713171,82.3533266,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Dumbriguda,18.2880195,82.7920084,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,G. Madugula,18.0179511,82.4982552,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Gudem Kotha Veedhi,18.01130766,82.7163254,Laterite,Chana Dal,"Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Hukumpeta,18.1508937,82.6928925,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Koyyuru,17.6550069,82.2182569,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Munchingi Puttu,17.6868159,83.2184815,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Paderu,18.0805802,82.6645469,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Peda Bayalu,18.2853641,82.5875496,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Alluri Sitharama Raju,Atchutapuram,17.5642144,82.9788774,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Anakapalli,Elamanchili,16.4808462,81.7828033,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Kotauratla,17.5662138,82.6834453,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Nakkapalle,17.4120856,82.7293193,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Payakaraopeta,17.362436,82.553086,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Anakapalli,Rambilli,17.4648711,82.9299876,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Sarvasiddhi Rayavaram,17.51122277,82.55430581,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Anakapalle,17.6896435,83.0023634,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Butchayyapeta,17.7866244,82.8862155,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Anakapalli,Cheedikada,17.9285256,82.892324,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Chodavaram,17.8313806,82.9340217,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Devarapalli,17.9878214,82.9837557,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,K.Kotapadu,17.8861163,83.0435215,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Kasimkota,17.668636,82.9641299,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Munagapaka,17.6366778,82.9949038,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Paravada,17.6217306,83.0817699,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Anakapalli,Sabbavaram,17.7893431,83.1179848,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Golugonda,17.6794093,82.4678294,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Madugula,17.9168233,82.8142389,Red,Field Pea,"Lobia, Cluster Bean","Horse Gram, Rice Bean"
+Andhra Pradesh,Anakapalli,Makavarapalem,17.6203466,82.7158302,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Narsipatnam,17.666433,82.6105228,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Anakapalli,Nathavaram,17.5690406,82.4923758,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Ravikamatham,17.7926667,82.8007667,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Rolugunta,17.7185645,82.667247,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anakapalli,Anantapur,14.6818877,77.6005911,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Atmakur,14.6167381,79.6245494,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Bukkaraya Samudram,14.6818877,77.6005911,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Anantapuram,Garladinne,14.8255661,77.5934621,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Kudair,14.7212028,77.4128193,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Narpala,14.7108923,77.8052767,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Anantapuram,Peddapappur,14.931237,77.864598,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Putlur,14.8125885,77.9667267,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Raptadu,14.6158174,77.6063541,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Singanamala,14.8000291,77.717308,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Tadipatri,14.9091024,78.0092047,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Yellanur,14.7005441,78.0723248,Red,"Field Pea, Rajma","Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Anantapuram,Gooty,15.1229477,77.6325593,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Anantapuram,Guntakal,15.1660706,77.3769836,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Pamidi,14.9521175,77.5947964,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Peddavadugur,15.0191823,77.6736554,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Uravakonda,14.9460376,77.2604842,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Vajrakarur,15.0262584,77.38699,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Vidapanakal,15.0563702,77.1844619,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Yadiki,15.050394,77.8727126,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Beluguppa,14.714318,77.1341351,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Bommanahal,15.0008268,76.9779875,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Anantapuram,Brahmasamudram,14.5523911,76.947022,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,D.Hirehal,15.0096592,76.8379942,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Gummagatta,14.5814165,76.854799,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Kalyandurg,14.5506321,77.1087176,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Kambadur,14.3427482,77.2318934,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Kanekal,14.8093235,77.069398,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Kundurpi,14.2879312,77.037736,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Rayadurg,14.696869,76.8546505,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Settur,14.4474111,76.9830277,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Anantapuram,Beerangi Kothakota,13.657554,78.2625728,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Chowdepalle,13.4373306,78.6916352,Red,Field Pea,"Lobia, Hyacinth Bean","Horse Gram, Rice Bean"
+Andhra Pradesh,Annamayya,Kurabalakota,13.652581,78.4815879,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Madanapalle,13.5560496,78.5010007,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Annamayya,Mulakalacheruvu,13.79822,78.2632767,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Annamayya,Nimmanapalle,13.5714548,78.6675305,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Peddamandyam,13.9273819,78.5490494,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Peddathippasamudram,13.7121886,78.2070246,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Punganur,13.36592,78.5750141,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Ramasamudram,13.3647618,78.4254543,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Thamballapalle,13.8220544,78.4489062,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Gurramkonda,13.7793731,78.5873759,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Kalakada,13.8257978,78.788704,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Kalikiri,13.6427649,78.8099472,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Kambhamvaripalle,13.7894428,78.8826779,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Pileru,13.654869,78.9471378,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Sodam,13.5476991,78.9074846,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Somala,13.476843,78.8106552,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Annamayya,Vayalpad,13.87942335,78.71273888,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Chinnamandyam,13.9365129,78.6824194,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Galiveedu,14.0253099,78.5064473,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Lakkireddipalli,14.1831779,78.6994326,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Ramapuram,14.8080163,78.7072293,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Rayachoti,14.0586263,78.7519382,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Sambepalli,14.2658402,78.7466666,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Annamayya,Bapatla,15.9039445,80.4671375,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Bapatla,Karlapalem,15.9408472,80.5379739,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Martur,15.9938431,80.1037721,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Bapatla,Parchur,15.9638688,80.2739458,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Pittalavanipalem,15.9843732,80.6368539,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Yeddanapudi,15.99554,80.1721613,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Chinaganjam,15.698071,80.2377078,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Chirala,15.8166616,80.35869,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Inkollu,15.8283739,80.1944375,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Karamchedu,15.8842993,80.3129541,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Vetapalem,15.785336,80.3073826,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Amruthalur,16.1191558,80.6590494,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Bapatla,Bhattiprolu,16.1038105,80.7845272,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Cherukupalle,16.0493704,80.6805413,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Kolluru,16.1848161,80.7962492,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Nagaram,16.0056803,80.7255995,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Nizampatnam,15.9055019,80.6682428,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Repalle,16.0174248,80.8294747,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Tsundur,16.1595028,80.5841155,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Vemuru,16.177978,80.7394572,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Bapatla,Bangarupalem,13.1962328,78.9132652,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,Chittoor,Chittoor,13.217176,79.1003289,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Chittoor Urban,13.217176,79.1003289,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Gangadhara Nellore,13.2326974,79.182364,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Gudipala,13.1012691,79.1248645,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Irala,13.3877656,78.9684177,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Penumuru,13.3677436,79.1957638,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Pulicherla,13.6004704,79.043318,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Puthalapattu,13.3843417,79.0828492,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Rompicherla,13.6678164,79.050381,Red,Field Pea,"Lobia, Cluster Bean","Horse Gram, Winged Bean"
+Andhra Pradesh,Chittoor,Sri Rangaraja Puram,13.3055505,79.3571161,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Chittoor,Thavanampalle,13.2629492,79.0094081,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Vedurukuppam,13.4514598,79.3212058,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Yadamarri,13.1597908,79.0397862,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Chittoor,Kuppam,12.7461129,78.342291,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Chittoor,Ramakuppam,12.899458,78.4851396,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Santhipuram,12.8705475,78.39943,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Gudipalle,12.9795147,78.5021861,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Nagari,13.3200519,79.585628,Red,Field Pea,"Lobia, Hyacinth Bean","Horse Gram, Winged Bean"
+Andhra Pradesh,Chittoor,Nindra,13.3618279,79.7007211,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Palasamudram,13.2121167,79.385975,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Vijayapuram,13.2677213,79.6972785,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Karvetinagar,13.4210317,79.4465159,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Baireddipalle,13.0875972,78.6058242,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Gangavaram,13.217416,78.7457541,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Palamaner,13.194898,78.7474214,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Peddapanjani,13.3070863,78.6865903,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Chittoor,Venkatagirikota,13.0011676,78.4794568,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Chittoor,Allavaram,16.5078455,81.9889323,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Amalapuram,16.5774798,82.0031455,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,I. Polavaram,16.6602506,82.189037,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Katrenikona,16.5828372,82.1536851,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Malikipuram,16.4043328,81.806039,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Mamidikuduru,16.5028955,81.9173312,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Mummidivaram,16.6414998,82.1042955,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Razole,16.4743259,81.8401957,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Sakhinetipalle,16.4242668,81.7185253,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Uppalaguptam,16.5513219,82.0938189,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Ainavilli,16.6600657,82.0114209,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Alamuru,16.7889753,81.8838931,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Ambajipeta,16.5938193,81.953567,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Atreyapuram,16.8334169,81.7869042,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Kothapeta,16.7160148,81.8957846,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,P. Gannavaram,16.5419292,80.8050141,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Ravulapalem,16.762483,81.8423198,Red,"Field Pea, Rajma","Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,K. Gangavaram,13.217416,78.7457541,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Ramachandrapuram,13.5428503,80.0331377,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema district,Chagallu,16.9929779,81.6667684,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,East Godavari,Devarapalle,17.0350499,81.5623849,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Gopalapuram,17.0999719,81.5390728,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Kovvur,17.0125618,81.727383,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Nallajerla,16.9479449,81.4045447,Alluvial,"Chana Dal, Rajma",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,East Godavari,Nidadavole,16.8970864,81.6634478,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Peravali,16.7511382,81.7417812,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,East Godavari,Tallapudi,17.1257124,81.6651457,Alluvial,"Chana Dal, Rajma",Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,East Godavari,Undrajavaram,16.7903381,81.6979992,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Anaparthi,16.9340866,81.9555307,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Biccavolu,16.9665505,82.043438,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Gokavaram,17.2563226,81.848391,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Kadiam,16.9135908,81.8182663,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Kapileswarapuram,16.7406164,81.9193779,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Korukonda,17.1704077,81.8265349,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Mandapeta,16.8652942,81.9261999,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Rajahmundry Urban,16.97785059,81.75958567,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Rajahmundry Rural,16.97785059,81.75958567,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Rajanagaram,17.0806322,81.9017706,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Rangampeta,17.081637,81.9889323,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Rayavaram,16.9006109,82.0052883,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Seethanagaram,17.1766571,81.6925246,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,East Godavari,Bhimadole,16.8108022,81.2636995,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Denduluru,16.7608986,81.166481,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Eluru,Eluru,16.7106604,81.0952431,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Kaikalur,16.5527225,81.2129365,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Kalidindi,16.5041447,81.2833003,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Mandavalli,16.5133628,80.5982468,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Mudinepalle,16.4198423,81.1113328,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Eluru,Nidamarru,16.7234241,81.4210304,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Pedapadu,16.636955,81.0333941,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Pedavegi,16.8101873,81.1065055,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Unguturu,16.5265369,80.8792871,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Buttayagudem,17.2027004,81.3199996,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Dwaraka Tirumala,16.77034186,81.06665867,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Jangareddygudem,17.122319,81.2923087,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Jeelugu Milli,17.2114615,81.1347756,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Eluru,Kamavarapukota,17.0097652,81.1938878,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Koyyalagudem,17.0956994,81.4018576,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Kukunoor,16.77034186,81.06665867,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Polavaram,17.2478932,81.6432353,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Eluru,T. Narasapuram,16.4329833,81.6966198,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Eluru,Velairpadu,16.1666789,80.2279488,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Agiripalli,16.6799583,80.785171,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Chatrai,16.9946061,80.8640699,Alluvial,"Chana Dal, Rajma",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Chintalapudi,17.0696809,80.9875964,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Lingapalem,16.9484113,80.991942,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Musunuru,16.8260112,80.9339067,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Nuzvid,16.7849906,80.8488498,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Eluru,Guntur East,16.3066525,80.4365402,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Guntur,Guntur West,16.3066525,80.4365402,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Medikonduru,16.3445906,80.3004177,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Pedakakani,16.3398218,80.4911892,Alluvial + Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Pedanandipadu,16.0710159,80.3296664,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal","Moong Dal, Winged Bean"
+Andhra Pradesh,Guntur,Phirangipuram,16.2890087,80.2627973,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Prathipadu,16.1817741,80.3352364,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Tadikonda,16.4199857,80.4521216,Alluvial + Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Thullur,16.5256505,80.4688061,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Vatticherukuru,16.1819993,80.4478352,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Chebrolu,16.2006845,80.5285648,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal","Moong Dal, Rice Bean"
+Andhra Pradesh,Guntur,Duggirala,16.3274353,80.628529,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Kakumanu,16.0551979,80.3978738,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Kollipara,16.2877346,80.7519272,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Mangalagiri,16.4345712,80.5662454,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Ponnur,16.0685991,80.5481667,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Tadepalle,16.479932,80.6174393,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Guntur,Tenali,16.237933,80.6444099,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Guntur,Gollaprolu,17.1561749,82.2861382,Alluvial + Black,"Chana Dal, Masoor Dal","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kakinada,Kajuluru,16.7958224,82.1740826,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Kakinada Rural,16.9890648,82.2474648,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Kakinada Urban,16.9890648,82.2474648,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Karapa,16.9018262,82.1693237,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Kothapalle,15.0175722,78.6136282,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Pedapudi,16.9523477,82.1305609,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Pithapuram,17.1145559,82.2521517,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Kakinada,Thallarevu,16.7819278,82.2325227,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Gandepalle,17.1391865,81.961664,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Jaggampeta,17.171159,82.0644394,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Kirlampudi,17.2005349,82.1795209,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Kotananduru,17.4825114,82.4888124,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Peddapuram,17.0756673,82.1360026,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Prathipadu,16.1817741,80.3352364,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,Kakinada,Rowthulapudi,17.3772505,82.3689165,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Samalkota,17.0500453,82.1679386,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Sankhavaram,17.2922225,82.3506142,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Kakinada,Thondangi,17.24783,82.4576741,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Tuni,17.3573261,82.544292,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Yeleswaram,17.2882648,82.1063568,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kakinada,Bapulapadu,16.6337723,80.9617035,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Gannavaram,16.5419292,80.8050141,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Krishna,Gudivada,16.4344461,80.9931388,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Gudlavalleru,16.348665,81.0492446,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Nandivada,16.497495,80.9829631,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Pedaparupudi,16.4253377,80.9563936,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Unguturu,16.5265369,80.8792871,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Avanigadda,16.0214271,80.915944,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Bantumilli,16.3702568,81.271423,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Challapalli,16.114817,80.9290685,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Ghantasala,16.1693394,80.9442732,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Guduru,16.2172351,81.0830691,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Koduru,16.008622,81.0340601,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Kruthivennu,16.3746415,81.3564411,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Machilipatnam,16.1808917,81.1302716,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Mopidevi,16.0667216,80.9276861,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Nagayalanka,15.9455478,80.9180086,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Krishna,Pedana,16.2579279,81.1444264,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Kankipadu,16.4337758,80.7683986,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Movva,16.2261728,80.7758336,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Pamarru,16.7584397,82.0011997,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Pamidimukkala,16.279628,80.8668369,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Penamaluru,16.4655057,80.7190012,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Thotlavalluru,16.3468095,80.783514,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Vuyyuru,16.3674975,80.8435391,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Krishna,Adoni Urban,16.30748612,81.00329317,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Kurnool,Adoni Rural,15.56113833,77.69101596,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Gonegandla,15.7162488,77.5934621,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Holagunda,15.4873182,77.0463719,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Kosigi,15.856266,77.2431485,Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Kowthalam,15.7703206,77.1398878,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Mantralayam,15.9413776,77.4257319,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Nandavaram,15.375322,78.28036,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Pedda Kadubur,15.7441247,77.3539774,Black,Chana Dal,"Toor Dal, Urad Dal","Moong Dal, Rice Bean"
+Andhra Pradesh,Kurnool,Yemmiganur,15.7641991,77.4759334,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,C.Belagal,15.8201951,77.6722239,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Gudur,14.1463424,79.8503809,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Kallur,15.8157465,78.0229491,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Kodumur,15.6860071,77.7709558,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Kurnool Urban,15.8281257,78.0372792,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Kurnool Rural,15.8281257,78.0372792,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Orvakal,15.6840564,78.1778185,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Veldurthi,15.5508726,77.9310283,Black,Chana Dal,"Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Kurnool,Alur,15.3943076,77.2266653,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Aspari,15.4756708,77.3884251,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Chippagiri,15.2289047,77.3180836,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Devanakonda,15.539518,77.5490448,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Halaharvi,15.8272672,77.4458151,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Krishnagiri,15.5654877,77.8310104,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Maddikera East,15.2716161,77.4128193,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Pattikonda,15.3968177,77.5007186,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Kurnool,Tuggali,15.31422,77.5440288,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Markapuram,Hanumanthuni Padu,15.5463573,79.17493714,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Kanigiri,15.4047653,79.5067131,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Pamur,15.0960348,79.4113072,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Pedacherlo Palle,16.5953073,79.7204761,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Veligandla,15.3415051,79.3454996,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Ardhaveedu,15.6746632,78.9599347,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Bestawaripeta,15.5503073,79.1026315,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Cumbum,15.5898209,79.1125135,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Dornala,15.9072455,79.0955723,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Markapuram,Giddalur,15.3763583,78.9250862,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Markapuram,Konakanamitla,15.6530904,79.4886679,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Komarolu,15.2651969,79.0009287,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Markapuram,Markapuram,14.1281382,76.9801476,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Peda Araveedu,15.8138091,79.2239676,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Markapuram,Pullalacheruvu,16.156745,79.4303017,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Podili,15.6070347,79.6146273,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Markapuram,Racherla,15.4625069,78.9641763,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Markapuram,Tarlupadu,15.6505041,79.2281975,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Tripuranthakam,16.0006488,79.456325,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Yerragondapalem,16.0367261,79.3071196,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Markapuram,Atmakur,14.6167381,79.6245494,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Nandyal,Bandi Atmakur,15.5827941,78.5234903,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Jupadu Bungalow,15.8656956,78.3856447,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Kothapalle,15.0175722,78.6136282,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Midthuru,15.7709108,78.2889005,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Nandikotkur,15.8555925,78.2645887,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Pagidyala,15.9354796,78.3401293,Black,Chana Dal,"Toor Dal, Urad Dal","Moong Dal, Winged Bean"
+Andhra Pradesh,Nandyal,Pamulapadu,15.8395598,78.4908221,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Srisailam,16.0732748,78.8687291,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Velgodu,15.7183119,78.574602,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Banaganapalle,15.3181028,78.225545,Black,Chana Dal,"Toor Dal, Urad Dal","Moong Dal, Winged Bean"
+Andhra Pradesh,Nandyal,Koilkuntla,15.2304101,78.3173641,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Kolimigundla,15.0754946,78.1065505,Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Owk,15.2083637,78.1179566,Black,"Chana Dal, Rajma","Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Nandyal,Sanjamala,15.1481832,78.2995753,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Bethamcherla,15.4575887,78.1518436,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Dhone,15.3960427,77.8732414,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Peapally,15.2354567,77.7423469,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Allagadda,15.6916334,78.4119492,Black,Chana Dal,"Toor Dal, Urad Dal","Moong Dal, Winged Bean"
+Andhra Pradesh,Nandyal,Chagalamarri,14.9639686,78.5916335,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Dornipadu,15.2055555,78.4481956,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Gadivemula,15.679932,78.4226112,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Gospadu,15.3565868,78.416925,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Mahanandi,15.4708691,78.6255418,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Nandyal Rural,14.2709505,79.1068667,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Nandyal Urban,14.2709505,79.1068667,Black,Chana Dal,"Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Nandyal,Panyam,15.5144141,78.348665,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Rudravaram,15.2423901,78.6044052,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Sirivella,15.3210541,78.5342909,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Uyyalawada,15.1021796,78.3970205,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Nandyal,Chandarlapadu,16.6939114,80.2014543,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,NTR,Jaggayyapeta,16.898534,80.103347,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Kanchikacherla,16.6833153,80.390432,Alluvial,"Chana Dal, Rajma",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Nandigama,16.7724159,80.2859096,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,NTR,Penuganchiprolu,16.9017437,80.2474657,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Vatsavai,16.9804204,80.2446779,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Veerullapadu,16.8198969,80.3980578,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,A. Konduru,16.9659754,80.6521139,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Gampalagudem,16.9923301,80.5271756,Alluvial,"Chana Dal, Rajma","Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,NTR,Reddigudem,16.8690415,80.7366859,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Tiruvuru,17.1098751,80.6093701,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Vissannapeta,16.9425688,80.7796313,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,G.Konduru,16.6821198,80.5743969,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Ibrahimpatnam,16.5927605,80.5228258,Alluvial,"Chana Dal, Rajma",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Mylavaram,14.8587305,78.3301701,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Vijayawada Rural,16.5061743,80.6480153,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Vijayawada North,16.5341835,80.597886,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,NTR,Vijayawada Central,16.5341835,80.597886,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Vijayawada East,16.5061743,80.6480153,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,NTR,Vijayawada West,16.5061743,80.6480153,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,NTR,Dachepalle,16.5953073,79.7204761,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,Palnadu,Durgi,16.4287632,79.5406738,Black,Chana Dal,"Toor Dal, Urad Dal","Moong Dal, Winged Bean"
+Andhra Pradesh,Palnadu,Gurazala,16.5543043,79.6196285,Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Karempudi,16.4303446,79.7189541,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Macherla,16.4759885,79.4394459,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Machavaram,16.5684324,79.8646835,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Piduguralla,16.4804583,79.8891327,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Rentachintala,16.5514617,79.5519144,Black,Chana Dal,"Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Palnadu,Veldurthi,15.5508726,77.9310283,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Bollapalle,16.1827634,79.6782755,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Chilakaluripet,16.0948008,80.1656205,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Edlapadu,16.1666789,80.2279488,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Ipuru,16.2295872,79.7750322,Black,Chana Dal,"Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Palnadu,Nadendla,16.1748603,80.1847167,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Narasaraopet,16.2359181,80.0496499,Black,Chana Dal,"Toor Dal, Urad Dal","Moong Dal, Winged Bean"
+Andhra Pradesh,Palnadu,Nuzendla,15.926779,79.7420906,Black,Chana Dal,"Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Palnadu,Rompicherla,13.6678164,79.050381,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Savalyapuram,16.1037913,79.8170675,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Vinukonda,16.0568398,79.7453318,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Amaravathi,16.5729831,80.3575128,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Atchampet,16.630373,80.1219215,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Bellamkonda,16.4891374,80.007497,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Krosuru,16.5452918,80.1400671,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Muppalla,16.2373932,79.8464804,Black,"Chana Dal, Rajma","Toor Dal, Urad Dal","Moong Dal, Rice Bean"
+Andhra Pradesh,Palnadu,Nekarikallu,16.3714243,79.9430537,Black,Chana Dal,"Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,Palnadu,Pedakurapadu,16.471332,80.2549918,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Rajupalem,14.2318901,79.2442339,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Sattenapalle,16.3960329,80.1492601,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Palnadu,Bhamini,18.9084239,83.8168053,Black,Chana Dal,"Toor Dal, Urad Dal",Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Gummalakshmipuram,16.4043328,81.806039,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Jiyyammavalasa,18.7895081,83.6009154,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Kurupam,18.8668799,83.5509886,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Palakonda,18.6006737,83.7575774,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Seethampeta,18.6925337,83.8168053,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Veeraghattam,18.6885592,83.6095653,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Balijipeta,18.6149066,83.5296744,Laterite,Chana Dal,Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Parvathipuram Manyam,Garugubilli,18.7116263,83.4924244,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Komarada,18.8992009,83.4603538,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Makkuva,18.6611054,83.2673259,Laterite,"Chana Dal, Rajma","Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Pachipenta,18.4785757,83.1124329,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Parvathipuram,18.7817162,83.4267518,Laterite,Chana Dal,"Toor Dal, Hyacinth Bean",Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Salur,18.5163848,83.2050863,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Seethanagaram,17.1766571,81.6925246,Laterite,Chana Dal,Toor Dal,Moong Dal
+Andhra Pradesh,Parvathipuram Manyam,Chintur,13.9558573,80.0688587,Laterite,Chana Dal,Toor Dal,"Moong Dal, Winged Bean"
+Andhra Pradesh,Polavaram,Etapaka,13.918853,78.1934911,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Kunavaram,17.2563226,81.848391,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Vararamachandrapuram,13.5428503,80.0331377,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Addateegala,17.4760584,82.0216407,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Devipatnam,17.3644905,81.6795209,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Gangavaram,13.217416,78.7457541,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Polavaram,Gurthedu,15.9065871,79.5786053,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Maredumilli,17.5983355,81.7135475,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Polavaram,Rajavommangi,17.546866,82.233202,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Rampachodavaram,17.436699,81.7759679,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Polavaram,Y. Ramavaram,16.9006109,82.0052883,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Polavaram,Korisapadu,15.7570503,80.0353285,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,J. Panguluru,15.8191462,80.0926014,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Addanki,15.810707,79.9724245,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Ballikurava,15.9946393,80.0243251,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Santhamaguluru,16.1381138,79.9584397,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Mundlamuru Ongole,15.8027908,79.8338761,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Thallur,15.738336,79.881483,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Darsi,15.7699955,79.6794474,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Donakonda Kanigiri,15.48118787,79.88737266,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Kurichedu,15.9065871,79.5786053,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Gudluru,15.0725079,79.9052768,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Kandukuru,15.219717,79.9024779,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Lingasamudram,15.0834749,79.7007211,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Ulavapadu,15.1680594,80.0073768,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Prakasam,Marripudi,15.5132517,79.651614,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Ponnaluru,15.2757076,79.7988547,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Voletivaripalem,15.1686151,79.7315747,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Chimakurthi,15.5855375,79.8671813,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Kondapi,15.4128093,79.8562826,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Kotha Patnam,15.4400341,80.1707662,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Maddipadu,15.6216671,80.0227514,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Naguluppalapadu,15.48118787,79.88737266,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Ongole Urban,15.5057232,80.049922,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Ongole Rural,15.5057232,80.049922,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Santhanuthala Padu,15.48118787,79.88737266,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Singarayakonda,15.2476081,80.0205089,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Tangutur,15.3417343,80.0346878,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Prakasam,Zarugumilli,15.3153296,79.9871062,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Prakasam,Ananthasagaram,14.5718811,79.4060896,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Anumasamudrampeta,14.6859124,79.6740663,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Atmakur,14.6167381,79.6245494,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Chejerla,14.5200441,79.567368,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Kaluvoya,14.5129543,79.4099,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Marripadu,14.6891874,79.3500759,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Sangam,14.5856623,79.7498014,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Sitarampuramu,15.0162392,79.1370458,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Udayagiri,14.8807462,79.3071196,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Gudur,14.1463424,79.8503809,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Chillakur,14.1279145,79.8618833,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Kota,14.0352299,80.0465067,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,"Allur mandal, Nellore district",14.53201252,79.72170864,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Bogolu,14.7373436,79.9584397,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Dagadarthi,14.671485,79.9346603,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Duttaluru,14.8437763,79.4099,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Jaladanki,14.8844203,79.9101748,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Kaligiri,14.8279227,79.6937075,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Kavali,14.9131806,79.9929798,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Kodavaluru,14.5657721,80.0038822,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Vidavaluru,14.5723259,80.0653482,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Vinjamuru,14.8388801,79.585628,Red,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Buchireddypalem,14.5351281,79.8772834,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Indukurpet,14.4712684,80.0995833,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Kovur,14.5021374,79.9852855,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Manubolu,14.2058747,79.8730837,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Muttukuru,14.2927358,80.0939978,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Nellore Urban,14.4425987,79.986456,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Nellore Rural,14.4425987,79.986456,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Podalakuru,14.3840902,79.7324067,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Rapuru,14.1998154,79.5336477,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Saidapuramu,14.1772875,79.7413896,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Thotapalligudur,14.3893245,80.0835241,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Venkatachalam,14.3258569,79.9231886,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Potti Sri Ramulu Nellore,Bathalapalle,14.5156193,77.7666649,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Chennekothapalle,14.0042293,77.5948946,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Dharmavaram,14.4124551,77.7201031,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Kanaganapalle,14.4456854,77.5261129,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Mudigubba,14.3486492,77.9938497,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Ramagiri,14.3103958,77.5060438,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Tadimarri,14.5612348,77.8588817,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Gandlapenta,14.0959658,78.271627,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Kadiri,14.1137566,78.1610702,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Lepakshi,13.8040549,77.6049218,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Sri Sathya Sai,Nallacheruvu,13.9868474,78.1859083,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Nambulapulakunta,14.0557623,78.4119492,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Tanakal,13.918853,78.1934911,Red,Field Pea,"Lobia, Hyacinth Bean","Horse Gram, Rice Bean"
+Andhra Pradesh,Sri Sathya Sai,Agali,13.7859687,77.0528484,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Amarapuram,14.1281382,76.9801476,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Gudibanda,13.9753718,77.1043863,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Rice Bean"
+Andhra Pradesh,Sri Sathya Sai,Madakasira,13.9402793,77.2717168,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Rolla,13.8419388,77.1039288,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Chilamathur,13.838947,77.7037131,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Gorantla,13.9837994,77.7723234,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Sri Sathya Sai,Hindupur,13.8222599,77.5009298,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Parigi,13.8865267,77.4658948,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Penukonda,14.0844312,77.5973233,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Roddam,14.0924206,77.4286011,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Sri Sathya Sai,Somandepalle,14.0088622,77.6076433,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Talupula,14.2432607,78.2575816,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Amadagur,13.888319,78.0216792,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Bukkapatnam,14.2002078,77.8009872,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Kothacheruvu,14.1883776,77.7652346,Red,Field Pea,"Lobia, Cowpea","Horse Gram, Winged Bean"
+Andhra Pradesh,Sri Sathya Sai,Nallamada,14.1416836,77.9831441,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Obuladevaracheruvu,13.79822,78.2632767,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Puttaparthi,14.1669963,77.8091496,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Sri Sathya Sai,Ichchapuram,19.1153219,84.6851979,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Srikakulam,Kanchili,18.9811478,84.582481,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Kaviti,19.0093875,84.6884426,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Mandasa,18.8724406,84.4605822,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Palasa,18.7747161,84.4093876,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Sompeta,18.9456083,84.582481,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Vajrapukothuru,18.701265,84.4335137,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Amadalavalasa,18.4101166,83.902951,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Burja,18.5191398,83.8022149,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Etcherla,18.2820684,83.8247623,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Ganguvarisigadam,18.3795764,83.6906836,Alluvial + Sandy,"Chana Dal, Masoor Dal","Moong Dal, Cluster Bean","Moong Dal, Rice Bean"
+Andhra Pradesh,Srikakulam,Gara,18.3314303,84.0544053,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Jalumuru,18.5105679,84.0418536,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Laveru,18.2380194,83.6959992,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Narasannapeta,18.4163638,84.0459255,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Polaki,18.3764255,84.099966,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Ponduru,18.3497368,83.7583918,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Ranastalam,18.2024216,83.6906836,Alluvial + Sandy,"Chana Dal, Masoor Dal","Moong Dal, Hyacinth Bean","Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Sarubujjili,18.5206315,83.8936796,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Srikakulam,18.2949165,83.8938018,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Hiramandalam,18.671752,83.9506104,Alluvial + Sandy,"Chana Dal, Masoor Dal","Moong Dal, Hyacinth Bean","Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Kotabommali,18.5184138,84.151428,Alluvial + Sandy,"Chana Dal, Masoor Dal","Moong Dal, Cluster Bean","Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Kothuru,18.784518,83.8860282,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Lakshminarsupeta,18.6174342,83.9625195,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Meliaputti,18.7749391,84.1738463,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,Srikakulam,Nandigam,18.3667052,84.1441732,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Pathapatnam,18.7505231,84.0915781,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Santhabommali,18.5364165,84.208117,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Saravakota,18.5936781,84.0524237,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Tekkali,18.6057678,84.2301531,Alluvial + Sandy,"Chana Dal, Rajma",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Srikakulam,Balayapalle,14.0659022,79.6852904,Alluvial + Sandy,"Chana Dal, Masoor Dal",Moong Dal,"Moong Dal, Moth Bean"
+Andhra Pradesh,Tirupati,Dakkili,14.1066823,79.5512119,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,K. V. B. Puram,13.4787911,78.8382644,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Nagalapuram,13.3857837,79.7988547,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Narayanavanam,13.4214205,79.5898413,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Pichatur,13.3991349,79.7413896,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Renigunta,13.6373232,79.5036674,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Srikalahasti,13.7527145,79.7066722,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Thottambedu,13.7168036,79.7231612,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Venkatagiri,13.9628978,79.5884369,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Yerpedu,13.6937091,79.5939606,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Buchinaidu Kandriga,13.7018417,79.8318098,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Chittamur,13.9558573,80.0688587,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Doravarisatram,14.2580848,79.9192702,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Naidupeta,13.9058635,79.8910459,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Tirupati,Ozili,14.0036134,79.9066763,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Pellakuru,13.8305399,79.8096502,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Satyavedu,13.4322706,79.9612368,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Sullurpeta,13.7008756,80.0209065,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Tada,13.589852,80.0328027,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Vakadu,14.0025371,80.0709539,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Varadaiahpalem,13.601156,79.9346603,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Chandragiri,13.5881118,79.3155716,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Chinnagottigallu,13.6508356,79.0856885,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Tirupati,Chitvel,14.1728215,79.3289523,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Kodur,13.9597733,79.3499861,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Obulavaripalle,14.0374777,79.2648481,Red,Field Pea,"Lobia, Hyacinth Bean",Horse Gram
+Andhra Pradesh,Tirupati,Pakala,13.4505232,79.1164797,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Penagalur,14.3045947,79.2627341,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Pullampeta,14.1223474,79.2098667,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Puttur,13.4381376,79.5521971,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Ramachandrapuram,13.5428503,80.0331377,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Tirupati Rural,13.6287557,79.4191795,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Tirupati Urban,13.6287557,79.4191795,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Vadamalapeta,13.5492114,79.524513,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Yerravaripalem,13.6911704,79.1266288,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Tirupati,Anandapuram,17.9053509,83.3629107,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Bheemunipatnam,17.9287283,83.4265542,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Padmanabham,17.9914434,83.3375244,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Seethammadhara,17.1766571,81.6925246,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Visakhapatnam Rural,17.68780996,82.66058447,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Gajuwaka,17.6851243,83.2035471,Red + Laterite,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Visakhapatnam,Gopalapatnam,18.7505231,84.0915781,Red + Laterite,"Field Pea, Rajma","Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Maharanipeta,17.68780996,82.66058447,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Mulagada,15.6916334,78.4119492,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Pedagantyada,17.6665858,83.2063083,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Pendurthi,17.80552,83.2089126,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Visakhapatnam,Badangi,18.4940742,83.3663617,Red + Laterite,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Bobbili,18.5735047,83.3583654,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Dattirajeru,18.3727725,83.3919275,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Gajapathinagaram,17.0806322,81.9017706,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Mentada,18.3109597,83.2592984,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Ramabhadrapuram,13.5428503,80.0331377,Red,Field Pea,"Lobia, Cluster Bean",Horse Gram
+Andhra Pradesh,Vizianagaram,Therlam,18.4810595,83.5030216,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Cheepurupalle,18.3105327,83.568301,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Garividi,18.2858395,83.5363359,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Gurla,18.2031702,83.4483483,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Merakamudidam,17.86859276,83.00034832,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Rajam,18.4555839,83.6493806,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Regidi Amadalavalasa,18.4555839,83.6493806,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Santhakaviti,18.4670401,83.7902747,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Vangara,18.6168693,83.6089,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Bhogapuram,18.0306541,83.4936905,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Bondapalle,18.2425128,83.3482146,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Denkada,18.0919657,83.4750241,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Gantyada,18.1418759,83.2960831,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Jami,18.0507698,83.2626433,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Kothavalasa,17.8908652,83.1908216,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Lakkavarapukota,17.0097652,81.1938878,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Nellimarla,18.164904,83.4510164,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Pusapatirega,18.0930405,83.5509886,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Srungavarapukota,17.0097652,81.1938878,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Vepada,18.0119217,83.0804283,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Vizianagaram,18.1066576,83.3955506,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,Vizianagaram,Akividu,16.5823155,81.3783772,Red,Field Pea,"Lobia, Cowpea",Horse Gram
+Andhra Pradesh,West Godavari,Bhimavaram,16.544893,81.521241,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Kalla,16.5373609,81.4086665,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Cluster Bean","Moong Dal, Rice Bean"
+Andhra Pradesh,West Godavari,Palacoderu,16.5861566,81.5479871,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,West Godavari,Undi,16.5863612,81.4636018,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Veeravasaram,16.5366494,81.6276892,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Achanta,16.6020356,81.8076934,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Mogalthur,16.415655,81.6105642,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,"Moong Dal, Rice Bean"
+Andhra Pradesh,West Godavari,Palakollu,16.5179401,81.7253474,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Penugonda,16.6547241,81.7445167,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Penumantra,16.6437416,81.6528219,Alluvial,"Chana Dal, Rajma",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Poduru,16.5896425,81.7622951,Alluvial,"Chana Dal, Masoor Dal","Toor Dal, Cluster Bean",Moong Dal
+Andhra Pradesh,West Godavari,Yelamanchili,16.4808462,81.7828033,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Attili,16.6884808,81.6037176,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Ganapavaram,16.5419292,80.8050141,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Iragavaram,16.6912107,81.7062103,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Pentapadu,16.7803742,81.5253564,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Tadepalligudem,16.8072523,81.5316033,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Tanuku,16.7565815,81.6769714,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,West Godavari,Atlur,14.5667169,79.050381,Alluvial,"Chana Dal, Masoor Dal",Toor Dal,Moong Dal
+Andhra Pradesh,YSR Kadapa,B. Kodur,14.8887345,78.9910352,Red + Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Badvel,14.7309084,79.058856,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Brahmamgarimattam,14.9088613,78.92205,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Chapad,14.5767233,78.8382644,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Duvvur,14.8405902,78.6540576,Red + Black,Chana Dal,"Toor Dal, Urad Dal","Horse Gram, Rice Bean"
+Andhra Pradesh,YSR Kadapa,Gopavaram,14.7166007,79.1209829,Red + Black,Chana Dal,"Toor Dal, Hyacinth Bean",Horse Gram
+Andhra Pradesh,YSR Kadapa,Kalasapadu,15.1065974,78.9415524,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Khajipet,14.6587411,78.7532884,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Porumamilla,14.9994124,78.9915188,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,S.Mydukur,14.7264993,78.7321005,Red + Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Jammalamadugu,14.8474197,78.3899108,Red + Black,Chana Dal,"Toor Dal, Hyacinth Bean",Horse Gram
+Andhra Pradesh,YSR Kadapa,Kondapuram,14.7757134,78.1949157,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Muddanur,14.6896777,78.3927547,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Mylavaram,14.8587305,78.3301701,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Peddamudium,15.0129141,78.451038,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Proddatur,14.752624,78.5541053,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Rajupalem,14.2318901,79.2442339,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Chennur,14.5690744,78.7986181,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Chinthakommadinne,14.64221698,78.78284009,Red + Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Kadapa,14.4673154,78.8242089,Red + Black,Chana Dal,"Toor Dal, Urad Dal","Horse Gram, Winged Bean"
+Andhra Pradesh,YSR Kadapa,Kamalapuram,16.5774798,82.0031455,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Pendlimarri,14.4491199,78.6313624,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Sidhout,14.4667556,78.9698314,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Vallur,14.5592933,78.7224666,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Vontimitta,14.3948189,79.0263645,Red + Black,"Chana Dal, Rajma","Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Yerraguntla,14.639396,78.5348507,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Chakrayapet,14.2562084,78.4922427,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Lingala,14.512287,78.1165309,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Pulivendla,14.4222318,78.2263388,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Simhadripuram,14.6288168,78.1265104,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Thondur,14.5764708,78.28036,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Veerapunayunipalle,14.5767233,78.8382644,Red + Black,Chana Dal,"Toor Dal, Hyacinth Bean",Horse Gram
+Andhra Pradesh,YSR Kadapa,Vempalle,14.3661521,78.45856,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Vemula,14.370133,78.3209215,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Nandalur,14.2709505,79.1068667,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Rajampet,14.1969204,79.1554591,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,T. Sundupalle,13.9815716,78.9146798,Red + Black,Chana Dal,"Toor Dal, Urad Dal",Horse Gram
+Andhra Pradesh,YSR Kadapa,Veeraballi,14.1576711,78.8566661,Red + Black,Chana Dal,"Toor Dal, Urad Dal","Horse Gram, Winged Bean"

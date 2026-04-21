@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pulse Navigator – AP Agricultural Intelligence</title>
+  <meta name="description" content="Mandal-level pulse crop mapping across Andhra Pradesh with AI price prediction and farmer marketplace."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;700;800;900&family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+  <style>
+    .lang-selector { display:flex; align-items:center; margin-left:10px; }
+    #langSelect {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 8px;
+      color: #c8e6c9;
+      font-family: 'Noto Sans Telugu','Inter',sans-serif;
+      font-size: 0.78rem;
+      font-weight: 500;
+      padding: 5px 10px;
+      cursor: pointer;
+      transition: background 0.2s, border-color 0.2s;
+      outline: none;
+    }
+    #langSelect:hover, #langSelect:focus {
+      background: rgba(255,255,255,0.15);
+      border-color: rgba(76,175,80,0.7);
+    }
+    #langSelect option { background:#0d2818; color:#e8f5e9; }
+    [lang='te'], [data-i18n] { font-family: 'Noto Sans Telugu','Inter',sans-serif; }
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div class="bg-fixed-overlay"></div>
+
+<!-- ═══════════ HEADER ═══════════ -->
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-icon">🌾</span>
+      <div>
+        <span class="logo-title">Pulse Navigator</span>
+        <span class="logo-sub">Andhra Pradesh Agricultural Intelligence</span>
+      </div>
+    </div>
+    <nav class="nav-links" id="navLinks">
+      <a href="#hero"           class="nav-link" onclick="closeNav()" data-i18n="navHome">🏠 Home</a>
+      <a href="#map-section"    class="nav-link" onclick="closeNav()" data-i18n="navMap">🗺️ Map</a>
+      <a href="#price-section"  class="nav-link" onclick="closeNav()" data-i18n="navPrices">📈 Prices</a>
+      <a href="#market-section" class="nav-link" onclick="closeNav()" data-i18n="navMarket">🛒 Market</a>
+      <a href="#sell-section"   class="nav-link" onclick="closeNav()" data-i18n="navSell">🌿 Sell</a>
+    </nav>
+    <button class="hamburger" id="hamburger" onclick="toggleNav()" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="lang-selector">
+      <select id="langSelect" onchange="setLanguage(this.value)" title="Language / భాష">
+        <option value="en">🌐 English</option>
+        <option value="te">🇮🇳 తెలుగు</option>
+      </select>
+    </div>
+    <!-- Farmer Identity Bar -->
+    <div class="farmer-identity" id="farmerIdentity">
+      <div class="fi-guest" id="fiGuest">
+        <input id="fiPhone" type="tel" class="fi-input" data-i18n="fiPhonePlaceholder" placeholder="Your phone number" pattern="[0-9]{10}" maxlength="10"/>
+        <button class="fi-btn" onclick="farmerLogin()" data-i18n="enterAsFarmer">Enter as Farmer</button>
+      </div>
+      <div class="fi-active hidden" id="fiActive">
+        <span class="fi-avatar">👨‍🌾</span>
+        <span class="fi-num" id="fiNum"></span>
+        <button class="fi-logout" onclick="farmerLogout()" title="Exit">✕</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ═══════════ HERO ═══════════ -->
+<section class="hero" id="hero">
+  <div class="hero-content">
+    <div class="hero-badge" data-i18n="heroBadge">🌱 Real-Time Agricultural Intelligence Platform</div>
+    <h1 class="hero-title"><span id="heroTitleText">Discover Pulses Across</span><br/><span class="gradient-text" id="heroTitleGrad">Andhra Pradesh</span></h1>
+    <p class="hero-desc" data-i18n="heroDesc">Mandal-level crop mapping · AI price prediction · Direct farmer-to-buyer connect</p>
+
+    <div class="search-card">
+      <label class="search-label" data-i18n="searchLabel">Choose a Pulse to Explore on the Map</label>
+      <div class="search-row">
+        <select id="cropSelect" class="crop-select">
+          <option value="" data-i18n="selectPulse">— Select a Pulse —</option>
+        </select>
+        <button class="btn-search" onclick="onCropSearch()" data-i18n="btnSearch">Explore →</button>
+      </div>
+    </div>
+
+
+    <div class="stats-row">
+      <div class="stat-pill">📍 <strong id="statMandals">679</strong> <span data-i18n="statMandalsLabel">Mandals</span></div>
+      <div class="stat-pill">🏘️ <strong id="statDistricts">28</strong> <span data-i18n="statDistrictsLabel">Districts</span></div>
+      <div class="stat-pill">🌾 <strong>15</strong> <span data-i18n="statCropsLabel">Pulse Crops</span></div>
+      <div class="stat-pill" data-i18n="statAI">🤖 AI Price Forecast</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ MAP ═══════════ -->
+<section class="section" id="map-section">
+  <div class="section-header">
+    <h2 class="section-title" data-i18n="mapTitle">🗺️ Mandal-Level Crop Map</h2>
+    <p class="section-desc" data-i18n="mapDesc">All 679 mandals plotted with real coordinates. Click any marker for full details.</p>
+  </div>
+
+  <!-- Map toolbar -->
+  <div class="map-toolbar">
+    <div class="map-toolbar-left">
+      <span class="filter-label" data-i18n="mapShowingLabel">Showing:</span>
+      <span id="mapFilterBadge" class="filter-badge">All Crops</span>
+      <span id="markerCount" class="marker-count">— markers</span>
+    </div>
+    <div class="map-toolbar-right">
+      <button id="backDistrictBtn" class="btn-back" onclick="backToDistrictView()" style="display:none">← Back to Districts</button>
+      <button class="btn-reset" onclick="resetMap()" data-i18n="btnShowAll">↺ Show All</button>
+    </div>
+  </div>
+
+  <!-- Legend -->
+  <div class="legend-bar" id="legendBar"></div>
+
+  <!-- MAP + INFO PANEL LAYOUT -->
+  <div class="map-layout">
+
+    <!-- LEFT: Leaflet map -->
+    <div class="map-wrapper">
+      <div id="map"></div>
+    </div>
+
+    <!-- RIGHT: Pulse info panel -->
+    <div class="map-right-col">
+      <div class="info-panel hidden" id="infoPanel">
+        <button class="panel-close" onclick="closePanel()">✕</button>
+        <div id="infoPanelContent"></div>
+      </div>
+      <div class="panel-placeholder" id="panelPlaceholder">
+        <div class="placeholder-icon">🌾</div>
+        <div class="placeholder-title" data-i18n="panelPlaceholderTitle">Pulse Details</div>
+        <div class="placeholder-desc" data-i18n="panelPlaceholderDesc">Select a pulse and click any district or mandal marker on the map to see details here.</div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ═══════════ PRICE INTELLIGENCE ═══════════ -->
+<section class="section" id="price-section">
+  <div class="section-header">
+    <h2 class="section-title" data-i18n="priceTitle">📈 Price Intelligence</h2>
+    <p class="section-desc" data-i18n="priceDesc">Historical averages + AI linear regression forecast per district</p>
+  </div>
+
+  <div class="price-controls">
+    <div class="ctrl-group">
+      <label class="ctrl-label" data-i18n="districtLabel">District</label>
+      <select id="priceDistrict" class="ctrl-select" onchange="renderPriceSection()">
+        <option value="" data-i18n="selectDistrict">— Select District —</option>
+      </select>
+    </div>
+    <div class="ctrl-group">
+      <label class="ctrl-label" data-i18n="pulseLabel">Pulse</label>
+      <select id="priceCrop" class="ctrl-select" onchange="renderPriceSection()">
+        <option value="" data-i18n="selectPulseFilter">— Select Pulse —</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Price chart -->
+  <div class="chart-card" id="chartCard" style="display:none">
+    <div class="chart-header">
+      <div>
+        <div class="chart-title" id="chartTitle">Price Trend</div>
+        <div class="chart-sub" id="chartSub"></div>
+      </div>
+      <button class="btn-api" onclick="showAPIModal()" data-i18n="apiResponse">{ } API Response</button>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="priceChart"></canvas>
+    </div>
+  </div>
+
+  <!-- Prediction highlight banner -->
+  <div class="pred-banner" id="predBanner" style="display:none">
+    <div class="pred-icon">🤖</div>
+    <div class="pred-body">
+      <div class="pred-label" data-i18n="aiPredictedLabel">AI Predicted Price for 2026</div>
+      <div class="pred-value" id="predValue"></div>
+      <div class="pred-note" data-i18n="aiPredictedNote">Linear Regression · trained on 2021–2025 historical data</div>
+    </div>
+    <div class="pred-trend" id="predTrend"></div>
+  </div>
+
+  <div id="priceOutput"></div>
+
+  <!-- API Response Modal -->
+  <div class="modal-overlay" id="apiModal" onclick="closeAPIModal()" style="display:none">
+    <div class="modal-box" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <span>{ } API Response</span>
+        <button class="modal-close" onclick="closeAPIModal()">✕</button>
+      </div>
+      <pre class="api-json" id="apiJson"></pre>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ MARKETPLACE ═══════════ -->
+<section class="section" id="market-section">
+  <div class="section-header">
+    <h2 class="section-title" data-i18n="marketTitle">🛒 Farmer Marketplace</h2>
+    <p class="section-desc" data-i18n="marketDesc">Browse available pulse stocks. Connect directly with farmers.</p>
+  </div>
+
+  <div class="market-filters">
+    <select id="mktCrop" class="ctrl-select" onchange="renderMarket()">
+      <option value="" data-i18n="allPulses">All Pulses</option>
+    </select>
+    <select id="mktDist" class="ctrl-select" onchange="renderMarket()">
+      <option value="" data-i18n="allDistricts">All Districts</option>
+    </select>
+    <span class="listing-count" id="listCount">0 listings</span>
+  </div>
+
+  <div class="listings-grid" id="listingsGrid">
+    <p class="empty-msg" data-i18n="noListings">No listings yet.</p>
+  </div>
+</section>
+
+<!-- ═══════════ SELL / LIST CROP ═══════════ -->
+<section class="section" id="sell-section">
+  <div class="section-header">
+    <h2 class="section-title" data-i18n="sellTitle">🌿 List Your Crop</h2>
+    <p class="section-desc" data-i18n="sellDesc">Farmers: post your available pulse stock and connect with buyers</p>
+  </div>
+
+  <div class="form-card">
+    <form id="sellForm" onsubmit="submitListing(event)">
+      <div class="form-grid">
+        <div class="form-group">
+          <label class="form-label" data-i18n="farmerNameLabel">👨‍🌾 Farmer Name <span class="req">*</span></label>
+          <input id="fName" type="text" class="form-input" data-i18n="farmerNamePlaceholder" placeholder="Your full name" required/>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="phoneLabel">📱 Phone <span class="req">*</span></label>
+          <input id="fPhone" type="tel" class="form-input" data-i18n="phonePlaceholder" placeholder="10-digit number" pattern="[0-9]{10}" required/>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="cropLabel">🌾 Crop <span class="req">*</span></label>
+          <select id="fCrop" class="form-input" required>
+            <option value="" data-i18n="selectPulseOption">— Select Pulse —</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="qtyLabel">⚖️ Quantity (kg) <span class="req">*</span></label>
+          <input id="fQty" type="number" class="form-input" data-i18n="qtyPlaceholder" placeholder="e.g. 500" min="1" required/>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="priceLabel">💰 Price (₹/kg) <span class="req">*</span></label>
+          <input id="fPrice" type="number" class="form-input" data-i18n="pricePlaceholder" placeholder="e.g. 95" min="1" step="0.01" required/>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="districtLabelForm">🏘️ District <span class="req">*</span></label>
+          <select id="fDistrict" class="form-input" required>
+            <option value="" data-i18n="selectDistrictOption">— Select District —</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="mandalLabel">📍 Mandal <span class="req">*</span></label>
+          <select id="fMandal" class="form-input" required>
+            <option value="" data-i18n="selectMandalOption">— Select Mandal —</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label" data-i18n="noteLabel">📝 Note (optional)</label>
+          <input id="fNote" type="text" class="form-input" data-i18n="notePlaceholder" placeholder="Quality, grade, availability…"/>
+        </div>
+      </div>
+      <button type="submit" class="btn-submit" data-i18n="btnPost">📢 Post My Listing</button>
+    </form>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <p data-i18n="footerMain">🌾 Pulse Navigator — Andhra Pradesh Agricultural Intelligence Platform</p>
+  <p style="margin-top:6px;font-size:.75rem;opacity:.5" data-i18n="footerSub">All data sourced from official agricultural records. Prices are annual averages.</p>
+   <div class="footer-container">
+
+    <!-- Institution -->
+    <div class="footer-box">
+      <div class="icon">🏫</div>
+      <h3>INSTITUTION</h3>
+      <p>Vignan's Institute of Information Technology</p>
+      <p>Department of AIDS</p>
+      <p>Visakhapatnam, Andhra Pradesh</p>
+      <p>Academic Year 2025–2026</p>
+    </div>
+
+    <!-- Project Guide -->
+    <div class="footer-box">
+      <div class="icon">👨‍🏫</div>
+      <h3>PROJECT GUIDE</h3>
+      <p>C.H.V. RAMANA</p>
+      <p>Vignan's Institute of Information Technology</p>
+    </div>
+
+    <!-- Project Team -->
+    <div class="footer-box">
+      <div class="icon">👥</div>
+      <h3>PROJECT TEAM</h3>
+      <ul>
+        <li>A. Manikanta</li>
+        <li>B. Yashwanth</li>
+        <li>B. Chaitanya</li>
+        <li>D. Dinesh</li>
+        <li>G. Hema Surya Sai Durga Bhavani</li>
+      </ul>
+    </div>
+
+    <!-- Contact -->
+    <div class="footer-box">
+      <div class="icon">📞</div>
+      <h3>GET IN TOUCH</h3>
+      <p>📧 manikantaamara31@gmail.com</p>
+      <p>📱 +91 8121609306</p>
+      <p>vignaniit.edu.in</p>
+    </div>
+
+  </div>
+
+</footer>
+
+<!-- ══ FLOATING VOICE ASSISTANT WIDGET ══ -->
+<div class="vf-widget" id="voiceWidget">
+
+  <!-- Panel slides up above the FAB -->
+  <div class="vf-panel" id="voiceFloatPanel" style="display:none">
+    <div class="vf-panel-header">
+      <span class="vf-panel-title">🤖 Voice Assistant</span>
+      <div class="vf-panel-actions">
+        <button class="vf-btn-help" onclick="showVoiceHelp()" title="Voice commands guide">💡 Help</button>
+        <button class="vf-btn-close" onclick="closeVoicePanel()" title="Close">✕</button>
+      </div>
+    </div>
+    <div class="va-transcript" id="voiceTranscript" style="display:none"></div>
+    <div class="va-status" id="voiceStatus">Tap 🎤 to start</div>
+    <div class="va-result"  id="voiceResult"  style="display:none"></div>
+  </div>
+
+  <!-- FAB button -->
+  <button class="vf-fab" id="micFab"
+    onclick="toggleVoicePanel()"
+    title="Voice assistant — tap to speak / మాట్లాడటానికి నొక్కండి"
+    aria-label="Voice assistant">
+    🎤
+  </button>
+
+</div>
+
+<!-- ══ VOICE HELP MODAL ══ -->
+<div class="modal-overlay" id="voiceHelpModal" style="display:none" onclick="closeVoiceHelp()">
+  <div class="modal-box vh-modal" onclick="event.stopPropagation()">
+    <div class="modal-header">
+      <span>🎤 Voice Assistant Guide</span>
+      <button class="modal-close" onclick="closeVoiceHelp()">✕</button>
+    </div>
+    <div id="voiceHelpBody" class="vh-body"></div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<script>
+  function toggleNav() {
+    const nav = document.getElementById('navLinks');
+    const btn = document.getElementById('hamburger');
+    nav.classList.toggle('open');
+    btn.classList.toggle('open');
+  }
+  function closeNav() {
+    document.getElementById('navLinks').classList.remove('open');
+    document.getElementById('hamburger').classList.remove('open');
+  }
+  // Close nav when clicking outside
+  document.addEventListener('click', function(e) {
+    const nav = document.getElementById('navLinks');
+    const btn = document.getElementById('hamburger');
+    if (nav.classList.contains('open') && !nav.contains(e.target) && !btn.contains(e.target)) {
+      closeNav();
+    }
+  });
+</script>
+
+<!-- ═══ DATA + APP (no server needed) ═══ -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="lang.js"></script>
+<script src="data.js"></script>
+<script src="pricedata.js"></script>
+<script src="app.js"></script>
+<script src="voice.js"></script>
+</body>
+</html>
